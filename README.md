@@ -18,3 +18,4 @@ MySQL Database
 MySQL Connector/J (Java)
 
 Happy booking! 🌆
+[![An image of @aniketdhokane's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniketdhokane)](https://holopin.io/@aniketdhokane)
